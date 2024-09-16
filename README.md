@@ -1,1 +1,1 @@
-analyze the data to get a fair idea about the demand of different restaurants which will help them in enhancing their customer experience
+This is my first project ever using Python to analyiz the data and get insights
